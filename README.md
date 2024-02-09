@@ -15,3 +15,11 @@ The purpose of this code is to create a simple temperature converter using Tkint
 
 ### FUNCTIONS
 - convert_temperature(): This function retrieves the temperature entered by the user, performs the conversion based on the selected option, and updates the result label with the converted temperature. It also handles errors if the entered value is not a valid number or if an invalid option is selected.
+
+### COMPONENTS
+- root: The main window of the Tkinter application.
+- entry: Entry widget for the user to input the temperature.
+- option: StringVar to store the selected conversion option.
+- option_menu: OptionMenu widget to display and select the conversion options.
+- convert_button: Button widget to trigger the conversion process.
+- result_label: Label widget to display the converted temperature.
