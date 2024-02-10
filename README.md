@@ -23,4 +23,10 @@ The purpose of this code is to create a simple temperature converter using Tkint
 - option_menu: OptionMenu widget to display and select the conversion options.
 - convert_button: Button widget to trigger the conversion process.
 - result_label: Label widget to display the converted temperature.
-h
+  ### use
+  - for converting temperature celsius to fahrenheit or fahrenheit to celsius
+  - for calculate temperature
+  - 
+
+  
+uu
